@@ -2,7 +2,7 @@ TLonJSONPLoad(
 [
  {
    "id": 15,
-   "title": "Queen Elizabeth II Crowned",
+   "title": "Queen Elizabeth II",
    "startDate": "1952-02-06 00:00:00",
    "endDate": "",
    "text": "",
@@ -15,7 +15,7 @@ TLonJSONPLoad(
  },
  {
    "id": 16,
-   "title": "George VI Crowned ",
+   "title": "George VI ",
    "startDate": "1936-12-11 00:00:00",
    "endDate": "1952-02-06 00:00:00",
    "text": "",
@@ -28,7 +28,7 @@ TLonJSONPLoad(
  },
  {
    "id": 17,
-   "title": "Edward VIII Crowned",
+   "title": "Edward VIII",
    "startDate": "1936-01-20 00:00:00",
    "endDate": "1936-12-11 00:00:00",
    "text": "",
@@ -41,7 +41,7 @@ TLonJSONPLoad(
  },
  {
    "id": 18,
-   "title": "George V Growned",
+   "title": "George V",
    "startDate": "1910-05-06 00:00:00",
    "endDate": "1936-01-20 00:00:00",
    "text": "",
@@ -54,7 +54,7 @@ TLonJSONPLoad(
  },
  {
    "id": 19,
-   "title": "Edward VII Crowned",
+   "title": "Edward VII",
    "startDate": "1901-01-22 00:00:00",
    "endDate": "1910-05-06 00:00:00",
    "text": "",
@@ -67,7 +67,7 @@ TLonJSONPLoad(
  },
  {
    "id": 20,
-   "title": "Queen Victoria Crowned",
+   "title": "Queen Victoria",
    "startDate": "1837-06-20 00:00:00",
    "endDate": "1901-01-22 00:00:00",
    "text": "",
@@ -80,7 +80,7 @@ TLonJSONPLoad(
  },
  {
    "id": 21,
-   "title": "King Willian IV Crowned",
+   "title": "King Willian IV",
    "startDate": "1830-03-26 00:00:00",
    "endDate": "1837-06-20 00:00:00",
    "text": "",
@@ -93,7 +93,7 @@ TLonJSONPLoad(
  },
  {
    "id": 22,
-   "title": "George IV Crowned",
+   "title": "George IV",
    "startDate": "1820-01-29 00:00:00",
    "endDate": "1830-06-26 00:00:00",
    "text": "",
@@ -106,7 +106,7 @@ TLonJSONPLoad(
  },
  {
    "id": 23,
-   "title": "George III Crowned",
+   "title": "George III",
    "startDate": "1760-10-25 00:00:00",
    "endDate": "1820-01-29 00:00:00",
    "text": "",
@@ -119,7 +119,7 @@ TLonJSONPLoad(
  },
  {
    "id": 24,
-   "title": "George II Crowned",
+   "title": "George II",
    "startDate": "1727-06-11 00:00:00",
    "endDate": "1760-10-25 00:00:00",
    "text": "",
@@ -132,7 +132,7 @@ TLonJSONPLoad(
  },
  {
    "id": 25,
-   "title": "George I Crowned",
+   "title": "George I",
    "startDate": "1714-08-01 00:00:00",
    "endDate": "1727-06-11 00:00:00",
    "text": "",
@@ -640,7 +640,7 @@ TLonJSONPLoad(
  {
    "id": 64,
    "title": "Edgar Ætheling",
-   "startDate": "1066-10-14",
+   "startDate": "1066-10-14 00:00:00",
    "endDate": "1066-12-01 00:00:00",
    "text": "",
    "fullText": "",
